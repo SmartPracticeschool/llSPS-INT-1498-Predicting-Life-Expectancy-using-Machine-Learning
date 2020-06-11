@@ -1,5 +1,5 @@
 # llSPS-INT-1498-Predicting-Life-Expectancy-using-Machine-Learning
-Predicting Life Expectancy using Machine Learning
+Predicting Life Expectancy using Machine Learning - Vinny Chamoli
 
 llSPS_INT_1498_Predicting_Life_Expectancy_using_Machine_Learning.pdf - This is the file that contains the project scope document.
 
